@@ -1,3 +1,5 @@
+
+![Screenshot 2024-11-03 122616](https://github.com/user-attachments/assets/f4eb8cc1-e2be-4007-b645-68b3ae15519d)
 Variable DC Power Supply with Digital Display
 
 This project is a Variable DC Power Supply designed to provide an adjustable output voltage with a real-time digital display for both voltage and current. It uses an AC to DC conversion system with a transformer, bridge rectifier, and smoothing capacitor, followed by a regulation circuit for precise output control. This power supply is suitable for electronics enthusiasts, engineers, and students looking for a reliable, adjustable power source for testing or powering circuits.
